@@ -1,5 +1,0 @@
-{{#KartikG69}}
-Name: Kartik Gupta
-Skills: Python, C++, Kotlin, Android Development
-Email: 03kartikgupta@gmail.com
-{{/KartikG69}}
